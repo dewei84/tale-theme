@@ -2,10 +2,10 @@
 layout: post
 title:  "Introducing Tale"
 author: "Chester"
-comments: true
+comments: false
 tags: Tale
 excerpt_separator: <!--more-->
-sticky: true
+sticky: false
 hidden: true
 ---
 
